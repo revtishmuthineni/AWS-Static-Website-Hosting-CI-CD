@@ -262,6 +262,6 @@ Note: In production, users should access the website through Amazon CloudFront, 
 
 **Revtish Muthineni**
 
-GitHub: https://github.com/revtishmuthineni/Static_Website-CICD
+GitHub: https://github.com/revtishmuthineni/AWS-Static-Website-Hosting-CI-CD
 
 
